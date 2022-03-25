@@ -1,0 +1,37 @@
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\Examen 2 Lenguaje.exe.config
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\Examen 2 Lenguaje.exe
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\Examen 2 Lenguaje.pdb
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\Datos.dll
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\Google.Protobuf.dll
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\MySql.Data.dll
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\System.Buffers.dll
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\System.Memory.dll
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\ZstdNet.dll
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\Datos.pdb
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\Datos.dll.config
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\Google.Protobuf.pdb
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\Google.Protobuf.xml
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\MySql.Data.xml
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\System.Buffers.xml
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\System.Memory.xml
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\obj\Debug\Examen 2 Lenguaje.csproj.AssemblyReference.cache
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\obj\Debug\Examen 2 Lenguaje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\obj\Debug\Examen_2_Lenguaje.Login.resources
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\obj\Debug\Examen_2_Lenguaje.Properties.Resources.resources
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\obj\Debug\Examen 2 Lenguaje.csproj.GenerateResource.cache
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\obj\Debug\Examen 2 Lenguaje.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\obj\Debug\Examen 2 Lenguaje.csproj.CopyComplete
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\obj\Debug\Examen 2 Lenguaje.exe
+C:\Users\Hp\Documents\periodo 1,2022\lenguaje 3\segundo parcial\Repositorio Examen 2\Examen2\Examen 2 Lenguaje\Examen 2 Lenguaje\obj\Debug\Examen 2 Lenguaje.pdb
